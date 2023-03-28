@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JHikaru
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning C, C++, C#, Java, HTML and CSS
 - 💞️ I’m looking for someone to collaborate on a Web Project but not at the moment
 - 📫 How to reach me jhikaruofficial@gmail.com
