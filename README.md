@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JHikaru
 - 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning C, C++, C#, Java, Python, HTML and CSS
+- 🌱 I’m currently learning Python, ASP.NET MVC, Next.JS, 
 - 💞️ I’m looking for someone to collaborate on a Web Project but not at the moment
 - 📫 How to reach me jhikaruofficial@gmail.com
 
